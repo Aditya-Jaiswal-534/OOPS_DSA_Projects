@@ -1,0 +1,106 @@
+Printing graph, vertices: 30, edges: 244
+Mumbai ['Bangalore', 'Lucknow', 'Bhopal', 'Patna', 'Agra', 'Vadodara', 'Madurai', 'Jamshedpur', 'Nellore', 'Tirupati', 'Rohtak']
+Bangalore ['Mumbai', 'Hyderabad', 'Chennai', 'Bhopal', 'Patna', 'Nellore', 'Belgaum', 'Ambala']
+Lucknow ['Mumbai', 'Ahmedabad', 'Visakhapatnam', 'Patna', 'Tirupati', 'Rohtak']
+Bhopal ['Mumbai', 'Delhi', 'Bangalore', 'Kolkata', 'Jaipur', 'Visakhapatnam', 'Patna', 'Ludhiana', 'Vadodara', 'Jamshedpur', 'Belgaum', 'Ambala']
+Patna ['Mumbai', 'Bangalore', 'Hyderabad', 'Chennai', 'Kolkata', 'Surat', 'Lucknow', 'Bhopal', 'Nashik', 'Vadodara', 'Ambala', 'Tirupati']
+Agra ['Mumbai', 'Hyderabad', 'Pune', 'Nashik', 'Belgaum', 'Rohtak']
+Vadodara ['Mumbai', 'Delhi', 'Ahmedabad', 'Chennai', 'Pune', 'Kanpur', 'Nagpur', 'Bhopal', 'Patna', 'Faridabad', 'Jammu']
+Madurai ['Mumbai', 'Kolkata', 'Jammu', 'Mangalore', 'Tirupati']
+Jamshedpur ['Mumbai', 'Ahmedabad', 'Surat', 'Bhopal', 'Faridabad', 'Mangalore', 'Rohtak']
+Nellore ['Mumbai', 'Delhi', 'Bangalore', 'Ahmedabad', 'Surat', 'Kanpur', 'Visakhapatnam', 'Mangalore']
+Tirupati ['Mumbai', 'Kolkata', 'Lucknow', 'Kanpur', 'Patna', 'Madurai', 'Jammu', 'Mangalore', 'Ambala']
+Rohtak ['Mumbai', 'Delhi', 'Chennai', 'Lucknow', 'Kanpur', 'Visakhapatnam', 'Agra', 'Jamshedpur']
+Delhi ['Ahmedabad', 'Chennai', 'Kolkata', 'Bhopal', 'Vadodara', 'Nellore', 'Belgaum', 'Mangalore', 'Rohtak']
+Ahmedabad ['Delhi', 'Chennai', 'Kolkata', 'Lucknow', 'Vadodara', 'Jamshedpur', 'Nellore', 'Ambala']
+Chennai ['Delhi', 'Bangalore', 'Ahmedabad', 'Pune', 'Patna', 'Ludhiana', 'Vadodara', 'Jammu', 'Mangalore', 'Rohtak']
+Kolkata ['Delhi', 'Ahmedabad', 'Pune', 'Kanpur', 'Nagpur', 'Visakhapatnam', 'Bhopal', 'Patna', 'Madurai', 'Ambala', 'Tirupati']
+Belgaum ['Delhi', 'Bangalore', 'Pune', 'Jaipur', 'Nagpur', 'Bhopal', 'Agra', 'Nashik']
+Mangalore ['Delhi', 'Hyderabad', 'Chennai', 'Kanpur', 'Visakhapatnam', 'Ludhiana', 'Madurai', 'Jamshedpur', 'Nellore', 'Tirupati']
+Hyderabad ['Bangalore', 'Jaipur', 'Patna', 'Agra', 'Nashik', 'Faridabad', 'Jammu', 'Mangalore']
+Ambala ['Bangalore', 'Ahmedabad', 'Kolkata', 'Surat', 'Jaipur', 'Kanpur', 'Bhopal', 'Patna', 'Tirupati']
+Jaipur ['Hyderabad', 'Kanpur', 'Nagpur', 'Bhopal', 'Ludhiana', 'Belgaum', 'Ambala']
+Nashik ['Hyderabad', 'Nagpur', 'Patna', 'Ludhiana', 'Agra', 'Belgaum']
+Faridabad ['Hyderabad', 'Surat', 'Nagpur', 'Vadodara', 'Jamshedpur', 'Jammu']
+Jammu ['Hyderabad', 'Chennai', 'Kanpur', 'Vadodara', 'Faridabad', 'Madurai', 'Tirupati']
+Pune ['Chennai', 'Kolkata', 'Ludhiana', 'Agra', 'Vadodara', 'Belgaum']
+Ludhiana ['Chennai', 'Pune', 'Jaipur', 'Kanpur', 'Bhopal', 'Nashik', 'Mangalore']
+Kanpur ['Kolkata', 'Jaipur', 'Ludhiana', 'Vadodara', 'Nellore', 'Jammu', 'Mangalore', 'Ambala', 'Tirupati', 'Rohtak']
+Nagpur ['Kolkata', 'Jaipur', 'Nashik', 'Vadodara', 'Faridabad', 'Belgaum']
+Visakhapatnam ['Kolkata', 'Surat', 'Lucknow', 'Bhopal', 'Nellore', 'Mangalore', 'Rohtak']
+Surat ['Visakhapatnam', 'Patna', 'Faridabad', 'Jamshedpur', 'Nellore', 'Ambala']
+------------------------
+Parcel ID: P1Tirupati1, Parcel origin: Tirupati, Parcel destination: Kolkata, Parcel priority: 1, Parcel delivered: True
+Parcel ID: P1Tirupati2, Parcel origin: Tirupati, Parcel destination: Kolkata, Parcel priority: 10, Parcel delivered: True
+Parcel ID: P1Tirupati3, Parcel origin: Tirupati, Parcel destination: Kolkata, Parcel priority: 5, Parcel delivered: True
+Parcel ID: P1Tirupati4, Parcel origin: Tirupati, Parcel destination: Kolkata, Parcel priority: 9, Parcel delivered: True
+Parcel ID: P1Rohtak1, Parcel origin: Rohtak, Parcel destination: Vadodara, Parcel priority: 5, Parcel delivered: True
+Parcel ID: P1Rohtak2, Parcel origin: Rohtak, Parcel destination: Vadodara, Parcel priority: 10, Parcel delivered: True
+Parcel ID: P1Mangalore1, Parcel origin: Mangalore, Parcel destination: Belgaum, Parcel priority: 7, Parcel delivered: False
+Parcel ID: P1Lucknow1, Parcel origin: Lucknow, Parcel destination: Mumbai, Parcel priority: 4, Parcel delivered: True
+Parcel ID: P1Lucknow2, Parcel origin: Lucknow, Parcel destination: Mumbai, Parcel priority: 6, Parcel delivered: True
+Parcel ID: P1Lucknow3, Parcel origin: Lucknow, Parcel destination: Mumbai, Parcel priority: 4, Parcel delivered: True
+Parcel ID: P1Lucknow4, Parcel origin: Lucknow, Parcel destination: Mumbai, Parcel priority: 7, Parcel delivered: True
+Parcel ID: P1Nellore1, Parcel origin: Nellore, Parcel destination: Madurai, Parcel priority: 1, Parcel delivered: True
+Parcel ID: P1Nellore2, Parcel origin: Nellore, Parcel destination: Madurai, Parcel priority: 6, Parcel delivered: True
+Parcel ID: P1Delhi1, Parcel origin: Delhi, Parcel destination: Chennai, Parcel priority: 10, Parcel delivered: False
+Parcel ID: P1Mumbai1, Parcel origin: Mumbai, Parcel destination: Tirupati, Parcel priority: 8, Parcel delivered: True
+Parcel ID: P1Mumbai2, Parcel origin: Mumbai, Parcel destination: Tirupati, Parcel priority: 4, Parcel delivered: True
+Parcel ID: P1Bhopal1, Parcel origin: Bhopal, Parcel destination: Vadodara, Parcel priority: 4, Parcel delivered: False
+Parcel ID: P1Nagpur1, Parcel origin: Nagpur, Parcel destination: Ludhiana, Parcel priority: 3, Parcel delivered: True
+Parcel ID: P1Nagpur2, Parcel origin: Nagpur, Parcel destination: Ludhiana, Parcel priority: 8, Parcel delivered: True
+Parcel ID: P1Nagpur3, Parcel origin: Nagpur, Parcel destination: Ludhiana, Parcel priority: 1, Parcel delivered: True
+Parcel ID: P1Nagpur4, Parcel origin: Nagpur, Parcel destination: Ludhiana, Parcel priority: 3, Parcel delivered: True
+Parcel ID: P1Kanpur1, Parcel origin: Kanpur, Parcel destination: Bhopal, Parcel priority: 6, Parcel delivered: True
+Parcel ID: P1Kanpur2, Parcel origin: Kanpur, Parcel destination: Bhopal, Parcel priority: 7, Parcel delivered: True
+Parcel ID: P1Kanpur3, Parcel origin: Kanpur, Parcel destination: Bhopal, Parcel priority: 6, Parcel delivered: True
+Parcel ID: P1Kanpur4, Parcel origin: Kanpur, Parcel destination: Bhopal, Parcel priority: 10, Parcel delivered: True
+Parcel ID: P2Faridabad1, Parcel origin: Faridabad, Parcel destination: Ludhiana, Parcel priority: 9, Parcel delivered: False
+Parcel ID: P2Faridabad2, Parcel origin: Faridabad, Parcel destination: Bangalore, Parcel priority: 2, Parcel delivered: True
+Parcel ID: P2Nashik1, Parcel origin: Nashik, Parcel destination: Kolkata, Parcel priority: 3, Parcel delivered: False
+Parcel ID: P2Nashik2, Parcel origin: Nashik, Parcel destination: Kolkata, Parcel priority: 10, Parcel delivered: True
+Parcel ID: P2Nashik3, Parcel origin: Nashik, Parcel destination: Kolkata, Parcel priority: 8, Parcel delivered: True
+Parcel ID: P2Hyderabad1, Parcel origin: Hyderabad, Parcel destination: Nagpur, Parcel priority: 6, Parcel delivered: False
+Parcel ID: P2Nellore1, Parcel origin: Nellore, Parcel destination: Ahmedabad, Parcel priority: 6, Parcel delivered: False
+Parcel ID: P2Bangalore1, Parcel origin: Bangalore, Parcel destination: Madurai, Parcel priority: 7, Parcel delivered: True
+Parcel ID: P2Bangalore2, Parcel origin: Bangalore, Parcel destination: Madurai, Parcel priority: 8, Parcel delivered: True
+Parcel ID: P2Bangalore3, Parcel origin: Bangalore, Parcel destination: Madurai, Parcel priority: 2, Parcel delivered: False
+Parcel ID: P2Ludhiana1, Parcel origin: Ludhiana, Parcel destination: Rohtak, Parcel priority: 3, Parcel delivered: False
+Parcel ID: P2Ahmedabad1, Parcel origin: Ahmedabad, Parcel destination: Surat, Parcel priority: 6, Parcel delivered: True
+Parcel ID: P2Ahmedabad2, Parcel origin: Ahmedabad, Parcel destination: Surat, Parcel priority: 5, Parcel delivered: True
+Parcel ID: P2Ahmedabad3, Parcel origin: Ahmedabad, Parcel destination: Surat, Parcel priority: 4, Parcel delivered: True
+Parcel ID: P2Ahmedabad4, Parcel origin: Ahmedabad, Parcel destination: Surat, Parcel priority: 8, Parcel delivered: True
+Parcel ID: P2Chennai1, Parcel origin: Chennai, Parcel destination: Patna, Parcel priority: 1, Parcel delivered: False
+Parcel ID: P3Delhi1, Parcel origin: Delhi, Parcel destination: Jaipur, Parcel priority: 9, Parcel delivered: True
+Parcel ID: P3Delhi2, Parcel origin: Delhi, Parcel destination: Jaipur, Parcel priority: 5, Parcel delivered: True
+Parcel ID: P3Delhi3, Parcel origin: Delhi, Parcel destination: Jaipur, Parcel priority: 2, Parcel delivered: False
+Parcel ID: P3Faridabad1, Parcel origin: Faridabad, Parcel destination: Nellore, Parcel priority: 9, Parcel delivered: True
+Parcel ID: P3Faridabad2, Parcel origin: Faridabad, Parcel destination: Nellore, Parcel priority: 1, Parcel delivered: True
+Parcel ID: P3Faridabad3, Parcel origin: Faridabad, Parcel destination: Nellore, Parcel priority: 10, Parcel delivered: True
+Parcel ID: P3Faridabad4, Parcel origin: Faridabad, Parcel destination: Nellore, Parcel priority: 6, Parcel delivered: True
+Parcel ID: P3Kanpur1, Parcel origin: Kanpur, Parcel destination: Nashik, Parcel priority: 4, Parcel delivered: True
+Parcel ID: P3Kanpur2, Parcel origin: Kanpur, Parcel destination: Nashik, Parcel priority: 7, Parcel delivered: True
+Parcel ID: P3Kanpur3, Parcel origin: Kanpur, Parcel destination: Nashik, Parcel priority: 4, Parcel delivered: True
+Parcel ID: P3Kanpur4, Parcel origin: Kanpur, Parcel destination: Nashik, Parcel priority: 10, Parcel delivered: True
+Parcel ID: P3Ambala1, Parcel origin: Ambala, Parcel destination: Bangalore, Parcel priority: 3, Parcel delivered: False
+Parcel ID: P3Nashik1, Parcel origin: Nashik, Parcel destination: Bangalore, Parcel priority: 8, Parcel delivered: True
+Parcel ID: P3Nashik2, Parcel origin: Nashik, Parcel destination: Bangalore, Parcel priority: 9, Parcel delivered: True
+Parcel ID: P3Nashik3, Parcel origin: Nashik, Parcel destination: Bangalore, Parcel priority: 8, Parcel delivered: True
+Parcel ID: P3Nashik4, Parcel origin: Nashik, Parcel destination: Bangalore, Parcel priority: 8, Parcel delivered: True
+Parcel ID: P3Mumbai1, Parcel origin: Mumbai, Parcel destination: Tirupati, Parcel priority: 9, Parcel delivered: True
+Parcel ID: P3Mumbai2, Parcel origin: Mumbai, Parcel destination: Tirupati, Parcel priority: 8, Parcel delivered: True
+Parcel ID: P3Kolkata1, Parcel origin: Kolkata, Parcel destination: Jaipur, Parcel priority: 8, Parcel delivered: True
+Parcel ID: P3Kolkata2, Parcel origin: Kolkata, Parcel destination: Jaipur, Parcel priority: 6, Parcel delivered: False
+Parcel ID: P3Kolkata3, Parcel origin: Kolkata, Parcel destination: Jaipur, Parcel priority: 9, Parcel delivered: True
+Parcel ID: P3Surat1, Parcel origin: Surat, Parcel destination: Ambala, Parcel priority: 7, Parcel delivered: True
+Parcel ID: P3Surat2, Parcel origin: Surat, Parcel destination: Ambala, Parcel priority: 1, Parcel delivered: True
+Parcel ID: P3Rohtak1, Parcel origin: Rohtak, Parcel destination: Kolkata, Parcel priority: 6, Parcel delivered: True
+Parcel ID: P3Rohtak2, Parcel origin: Rohtak, Parcel destination: Kolkata, Parcel priority: 1, Parcel delivered: False
+Parcel ID: P3Jaipur1, Parcel origin: Jaipur, Parcel destination: Surat, Parcel priority: 2, Parcel delivered: True
+Parcel ID: P3Jaipur2, Parcel origin: Jaipur, Parcel destination: Surat, Parcel priority: 1, Parcel delivered: True
+Parcel ID: P3Mangalore1, Parcel origin: Mangalore, Parcel destination: Patna, Parcel priority: 7, Parcel delivered: True
+Parcel ID: P3Mangalore2, Parcel origin: Mangalore, Parcel destination: Patna, Parcel priority: 10, Parcel delivered: True
+Parcel ID: P3Rohtak3, Parcel origin: Rohtak, Parcel destination: Kolkata, Parcel priority: 2, Parcel delivered: True
+All parcels delivered: False
+Delivered parcels: ['P1Tirupati1', 'P1Tirupati2', 'P1Tirupati3', 'P1Tirupati4', 'P1Rohtak1', 'P1Rohtak2', 'P1Lucknow1', 'P1Lucknow2', 'P1Lucknow3', 'P1Lucknow4', 'P1Nellore1', 'P1Nellore2', 'P1Mumbai1', 'P1Mumbai2', 'P1Nagpur1', 'P1Nagpur2', 'P1Nagpur3', 'P1Nagpur4', 'P1Kanpur1', 'P1Kanpur2', 'P1Kanpur3', 'P1Kanpur4', 'P2Faridabad2', 'P2Nashik2', 'P2Nashik3', 'P2Bangalore1', 'P2Bangalore2', 'P2Ahmedabad1', 'P2Ahmedabad2', 'P2Ahmedabad3', 'P2Ahmedabad4', 'P3Delhi1', 'P3Delhi2', 'P3Faridabad1', 'P3Faridabad2', 'P3Faridabad3', 'P3Faridabad4', 'P3Kanpur1', 'P3Kanpur2', 'P3Kanpur3', 'P3Kanpur4', 'P3Nashik1', 'P3Nashik2', 'P3Nashik3', 'P3Nashik4', 'P3Mumbai1', 'P3Mumbai2', 'P3Kolkata1', 'P3Kolkata3', 'P3Surat1', 'P3Surat2', 'P3Rohtak1', 'P3Jaipur1', 'P3Jaipur2', 'P3Mangalore1', 'P3Mangalore2', 'P3Rohtak3']
+Stranded parcels: ['P1Mangalore1', 'P1Delhi1', 'P1Bhopal1', 'P2Faridabad1', 'P2Nashik1', 'P2Hyderabad1', 'P2Nellore1', 'P2Bangalore3', 'P2Ludhiana1', 'P2Chennai1', 'P3Delhi3', 'P3Ambala1', 'P3Kolkata2', 'P3Rohtak2']

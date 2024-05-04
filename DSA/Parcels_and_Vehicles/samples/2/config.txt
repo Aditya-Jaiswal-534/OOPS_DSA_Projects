@@ -1,0 +1,2 @@
+max_parcel_capacity 2
+min_freight_cars_to_move 2
